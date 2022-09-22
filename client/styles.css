@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+h1{
+  color: coral;  
+}
+#h1s{
+    color: aquamarine;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-emphasis-color: rgb(250, 250, 250);
+    color: rgb(46, 108, 161);
+}
+
+
+.empty{
+    filter: grayscale(0%);
+}
+.grayscale{
+    filter: grayscale(100%);
+}
